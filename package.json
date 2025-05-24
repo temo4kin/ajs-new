@@ -1,0 +1,24 @@
+{
+  "name": "ajs-new",
+  "version": "1.0.0",
+  "description": "Проверка лабораторной работы",
+  "homepage": "https://github.com/temo4kin/ajs-new#readme",
+  "bugs": {
+    "url": "https://github.com/temo4kin/ajs-new/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temo4kin/ajs-new.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@temo4kin/ajs": "^1.0.0"
+  }
+}
